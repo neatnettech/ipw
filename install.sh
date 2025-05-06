@@ -2,7 +2,7 @@
 
 set -e
 
-REPO_URL="https://github.com/yourusername/ipw"
+REPO_URL="https://github.com/neatnettech/ipw"
 INSTALL_DIR="$HOME/.ipw-cli"
 BIN_DIR="$HOME/.local/bin"
 VENV_DIR="$INSTALL_DIR/.venv"
