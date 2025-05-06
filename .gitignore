@@ -1,0 +1,37 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv/
+
+# Poetry
+poetry.lock
+
+# Installer & cache dirs
+.ipw-cli/
+.saved_passwords/
+saved_passwords/
+
+# Editor / OS specific
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Log or temp files
+*.log
+*.tmp
+*.bak
+
+# Backup files
+*~
